@@ -1,2 +1,2 @@
-# Car-Orientation-Detection
+# Car-Orientation-Detection-DL project
 Solving an 8 class classification problem concerning car orientation (Front, Front-Left, Left etc...). Includes label generation using car part segmentation & classical computer vision followed by training a general CNN.
